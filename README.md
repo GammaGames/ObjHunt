@@ -1,7 +1,7 @@
 ObjHunt
 =========
 
-A new and improved Garry's Mod prop hunt
+A new and improved Garry's Mod prop hunt, now featuring your favorite LetsPlay personalities!
 
 ###Install guide
 

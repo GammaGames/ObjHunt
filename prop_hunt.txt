@@ -1,4 +1,4 @@
-"objhunt"
+"objhuntlp"
 {
 	"base"		"base"
 	"title"		"Prop Hunt"
